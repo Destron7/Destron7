@@ -1,6 +1,6 @@
 # Hi there, I'm Dev Patel 👋
 
-🎓 **Student | AI ML Engineer**
+🎓 **AI/ML Engineer**
 
 ---
 
